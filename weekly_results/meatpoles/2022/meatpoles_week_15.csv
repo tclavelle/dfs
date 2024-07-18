@@ -1,0 +1,49 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3563690175,frankmkerr23,0,162.4,QB Jalen Hurts RB Derrick Henry RB Isiah Pacheco FLEX Latavius Murray WR DeVonta Smith WR Mike Williams WR Chris Moore TE Chig Okonkwo DST Broncos ,,Isiah Pacheco,RB,60.00%,9.7
+2,3563848615,abc010,0,160.7,QB Jalen Hurts RB Austin Ekeler RB Derrick Henry WR Garrett Wilson WR Zay Jones WR Elijah Moore TE Dalton Schultz FLEX Greg Dulcich DST Broncos ,,Derrick Henry,RB,50.00%,29.3
+3,3558800079,QTURNER17,0,160.02,QB Justin Herbert RB Derrick Henry FLEX Isiah Pacheco RB Zonovan Knight WR Keenan Allen WR JuJu Smith-Schuster WR Zay Jones TE Juwan Johnson DST Broncos ,,Justin Herbert,QB,40.00%,13.72
+4,3566733141,sokirkab,0,136.74,QB Patrick Mahomes RB Isiah Pacheco RB Leonard Fournette WR Chris Olave WR Joshua Palmer WR George Pickens FLEX Noah Brown TE Travis Kelce DST Titans ,,Miles Sanders,RB,40.00%,2.9
+5,3560654208,jcameronmetz,0,129.72,QB Justin Herbert RB Derrick Henry RB Alvin Kamara WR Keenan Allen FLEX Mike Williams WR Zay Jones WR Michael Gallup TE Hunter Henry DST Texans ,,Keenan Allen,WR,40.00%,16.6
+6,3566864250,Matthew.walsh5,0,118.12,QB Justin Herbert RB Derrick Henry RB Alvin Kamara FLEX Isiah Pacheco WR Keenan Allen WR Diontae Johnson WR Nelson Agholor TE Greg Dulcich DST Lions ,,Mike Williams,WR,40.00%,10.7
+7,3562296020,Iceman_1733,0,105,QB Jalen Hurts RB Miles Sanders RB Isiah Pacheco WR Ja'Marr Chase WR Mike Williams WR Chris Moore FLEX Nelson Agholor TE Dalton Schultz DST Broncos ,,Zay Jones,WR,40.00%,37.9
+8,3567015000,dalla2746,0,96.28,QB Justin Fields RB Josh Jacobs RB Miles Sanders WR Christian Kirk WR Garrett Wilson WR Chris Moore TE Cole Kmet FLEX Greg Dulcich DST Raiders ,,Chris Moore,WR,40.00%,8.2
+9,3568435075,cciaburri,0,94.8,QB Jameis Winston RB Tony Pollard FLEX Alvin Kamara RB Miles Sanders WR Chris Olave WR Mike Williams WR Zay Jones TE Pat Freiermuth DST Titans ,,Broncos,DST,40.00%,10
+10,3568281084,802the805,0,93.52,QB Justin Herbert RB Miles Sanders RB Isiah Pacheco WR Ja'Marr Chase WR Keenan Allen FLEX Robert Woods WR Chris Moore TE Gerald Everett DST Jaguars ,,Jalen Hurts,QB,30.00%,39.7
+,,,,,,,Alvin Kamara,RB,30.00%,12.4
+,,,,,,,Greg Dulcich,TE,30.00%,2.1
+,,,,,,,Ja'Marr Chase,WR,20.00%,19
+,,,,,,,Chris Olave,WR,20.00%,8.3
+,,,,,,,Garrett Wilson,WR,20.00%,13.8
+,,,,,,,Nelson Agholor,WR,20.00%,1.3
+,,,,,,,Dalton Schultz,TE,20.00%,3.5
+,,,,,,,Titans,DST,20.00%,8
+,,,,,,,Patrick Mahomes,QB,10.00%,35.74
+,,,,,,,Justin Fields,QB,10.00%,23.58
+,,,,,,,Jameis Winston,QB,10.00%,0
+,,,,,,,Austin Ekeler,RB,10.00%,15
+,,,,,,,Josh Jacobs,RB,10.00%,13
+,,,,,,,Tony Pollard,RB,10.00%,14.6
+,,,,,,,Leonard Fournette,RB,10.00%,11.4
+,,,,,,,Zonovan Knight,RB,10.00%,2.3
+,,,,,,,Latavius Murray,FLEX,10.00%,24.2
+,,,,,,,Christian Kirk,WR,10.00%,15.2
+,,,,,,,DeVonta Smith,WR,10.00%,20.6
+,,,,,,,JuJu Smith-Schuster,WR,10.00%,17.8
+,,,,,,,Joshua Palmer,WR,10.00%,9.9
+,,,,,,,Diontae Johnson,WR,10.00%,20
+,,,,,,,George Pickens,WR,10.00%,7.3
+,,,,,,,Michael Gallup,WR,10.00%,1.2
+,,,,,,,Robert Woods,FLEX,10.00%,3.2
+,,,,,,,Elijah Moore,WR,10.00%,9.4
+,,,,,,,Noah Brown,FLEX,10.00%,22.9
+,,,,,,,Travis Kelce,TE,10.00%,23.5
+,,,,,,,Pat Freiermuth,TE,10.00%,0
+,,,,,,,Gerald Everett,TE,10.00%,8.2
+,,,,,,,Cole Kmet,TE,10.00%,6.5
+,,,,,,,Juwan Johnson,TE,10.00%,22.7
+,,,,,,,Hunter Henry,TE,10.00%,2.9
+,,,,,,,Chig Okonkwo,TE,10.00%,10
+,,,,,,,Raiders,DST,10.00%,11
+,,,,,,,Lions,DST,10.00%,13
+,,,,,,,Jaguars,DST,10.00%,12
+,,,,,,,Texans,DST,10.00%,5

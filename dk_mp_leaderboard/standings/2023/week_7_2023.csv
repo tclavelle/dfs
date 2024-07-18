@@ -1,0 +1,54 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3978838161,sokirkab,0,139.28,DST Falcons  FLEX Zach Ertz QB Lamar Jackson RB Kenneth Walker III RB Isiah Pacheco TE Kyle Pitts WR Puka Nacua WR Tyler Lockett WR Zay Flowers,,Kenneth Walker III,RB,70.00%,16.1
+2,3973073727,molly_camp,0,125.1,DST Falcons  FLEX Odell Beckham Jr. QB Baker Mayfield RB Josh Jacobs RB Kareem Hunt TE Darren Waller WR Davante Adams WR Chris Godwin WR George Pickens,,Isiah Pacheco,RB,50.00%,16
+3,3979277012,Matthew.walsh5,0,121.9,DST Bills  FLEX Jahmyr Gibbs QB Baker Mayfield RB Kenneth Walker III RB Isiah Pacheco TE Darnell Washington WR Mike Evans WR Tyler Lockett WR Terry McLaurin,,Josh Jacobs,RB,40.00%,5.1
+4,3979083599,jcameronmetz,0,117.46,DST Patriots  FLEX Rashee Rice QB Justin Herbert RB Kenneth Walker III RB Jahmyr Gibbs TE Gerald Everett WR Keenan Allen WR Marquise Brown WR Elijah Moore,,Tyler Lockett,WR,40.00%,7.8
+5,3976819565,abc010,0,116.36,DST Chiefs  FLEX Isiah Pacheco QB Patrick Mahomes RB Josh Jacobs RB Kenneth Walker III TE Logan Thomas WR Tyler Lockett WR Marquise Brown WR Curtis Samuel,,Marquise Brown,WR,40.00%,7.9
+6,3978348473,802the805,0,104.9,DST Chiefs  FLEX Trey McBride QB Jordan Love RB Josh Jacobs RB Kenneth Walker III TE Sam LaPorta WR Stefon Diggs WR Zay Flowers WR Romeo Doubs,,Jordan Love,QB,30.00%,16.3
+7,3978874514,cciaburri,0,103.5,DST Lions  FLEX Josh Jacobs QB Jordan Love RB Kenneth Walker III RB Royce Freeman TE Mark Andrews WR Mike Evans WR Marquise Brown WR Romeo Doubs,,Romeo Doubs,WR,30.00%,11
+8,3977021653,NotTheFakeKG,0,100.56,DST Raiders  FLEX Terry McLaurin QB Jared Goff RB Aaron Jones RB Isiah Pacheco TE Kyle Pitts WR Tyler Lockett WR Jerry Jeudy WR Courtland Sutton,,Justin Herbert,QB,20.00%,12.86
+8,3978655655,dalla2746,0,100.56,DST Browns  FLEX Rashee Rice QB Justin Herbert RB Aaron Jones RB Jerome Ford TE Michael Mayer WR Keenan Allen WR Chris Godwin WR Wan'Dale Robinson,,Baker Mayfield,QB,20.00%,17.2
+10,3973053392,Iceman_1733,0,95.7,DST Ravens  FLEX Romeo Doubs QB Jordan Love RB Kenneth Walker III RB Isiah Pacheco TE Michael Mayer WR Cooper Kupp WR Amari Cooper WR Marquise Brown,,Aaron Jones,RB,20.00%,8.7
+,,,,,,,Jahmyr Gibbs,RB,20.00%,27.6
+,,,,,,,Keenan Allen,WR,20.00%,9.5
+,,,,,,,Mike Evans,WR,20.00%,20.2
+,,,,,,,Chris Godwin,WR,20.00%,12.6
+,,,,,,,Zay Flowers,WR,20.00%,11.5
+,,,,,,,Terry McLaurin,WR,20.00%,15
+,,,,,,,Rashee Rice,FLEX,20.00%,17
+,,,,,,,Kyle Pitts,TE,20.00%,7.7
+,,,,,,,Michael Mayer,TE,20.00%,3.3
+,,,,,,,Falcons,DST,20.00%,11
+,,,,,,,Chiefs,DST,20.00%,10
+,,,,,,,Patrick Mahomes,QB,10.00%,37.86
+,,,,,,,Lamar Jackson,QB,10.00%,37.88
+,,,,,,,Jared Goff,QB,10.00%,10.36
+,,,,,,,Jerome Ford,RB,10.00%,17.4
+,,,,,,,Kareem Hunt,RB,10.00%,15.1
+,,,,,,,Royce Freeman,RB,10.00%,6.6
+,,,,,,,Cooper Kupp,WR,10.00%,6.9
+,,,,,,,Stefon Diggs,WR,10.00%,17.8
+,,,,,,,Davante Adams,WR,10.00%,12.7
+,,,,,,,Puka Nacua,WR,10.00%,26.4
+,,,,,,,Amari Cooper,WR,10.00%,4.2
+,,,,,,,Jerry Jeudy,WR,10.00%,11.4
+,,,,,,,George Pickens,WR,10.00%,18.7
+,,,,,,,Courtland Sutton,WR,10.00%,19.6
+,,,,,,,Elijah Moore,WR,10.00%,9.9
+,,,,,,,Curtis Samuel,WR,10.00%,6.5
+,,,,,,,Odell Beckham Jr.,FLEX,10.00%,9.9
+,,,,,,,Wan'Dale Robinson,WR,10.00%,3.2
+,,,,,,,Mark Andrews,TE,10.00%,22.3
+,,,,,,,Sam LaPorta,TE,10.00%,11.2
+,,,,,,,Darren Waller,TE,10.00%,22.8
+,,,,,,,Gerald Everett,TE,10.00%,11.6
+,,,,,,,Logan Thomas,TE,10.00%,9.1
+,,,,,,,Zach Ertz,FLEX,10.00%,4.9
+,,,,,,,Trey McBride,FLEX,10.00%,5.9
+,,,,,,,Darnell Washington,TE,10.00%,0
+,,,,,,,Bills,DST,10.00%,2
+,,,,,,,Raiders,DST,10.00%,4
+,,,,,,,Browns,DST,10.00%,16
+,,,,,,,Lions,DST,10.00%,-2
+,,,,,,,Ravens,DST,10.00%,14
+,,,,,,,Patriots,DST,10.00%,5

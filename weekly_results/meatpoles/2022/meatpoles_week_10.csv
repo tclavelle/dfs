@@ -1,0 +1,59 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3493870249,802the805,0,184.84,QB Patrick Mahomes RB Saquon Barkley RB Tony Pollard WR Christian Kirk WR Mack Hollins WR Marquez Valdes-Scantling TE Travis Kelce FLEX Harrison Bryant DST Vikings ,,Travis Etienne Jr.,RB,54.55%,10.3
+2,3489717290,frankmkerr23,0,156.68,QB Justin Fields RB Travis Etienne Jr. RB Dameon Pierce FLEX Jeff Wilson Jr. WR Justin Jefferson WR JuJu Smith-Schuster WR Mack Hollins TE Greg Dulcich DST Vikings ,,Saquon Barkley,RB,45.45%,26
+3,3485046988,Iceman_1733,0,150.08,QB Justin Fields RB Saquon Barkley RB Tony Pollard WR Tyreek Hill WR Chris Olave WR Donovan Peoples-Jones TE Greg Dulcich FLEX Harrison Bryant DST Jaguars ,,Greg Dulcich,TE,45.45%,2.1
+4,3494325175,sarahskerr,0,145.48,QB Justin Fields RB D'Andre Swift RB Devin Singletary FLEX Davante Adams WR Allen Lazard WR JuJu Smith-Schuster WR Rondale Moore TE Tanner Hudson DST Steelers ,,Justin Fields,QB,36.36%,43.38
+5,3492975886,QTURNER17,0,138.2,QB Dak Prescott RB Saquon Barkley RB Travis Etienne Jr. WR CeeDee Lamb WR Jerry Jeudy WR George Pickens FLEX Donovan Peoples-Jones TE Foster Moreau DST Browns ,,JuJu Smith-Schuster,WR,36.36%,5.3
+6,3492910894,abc010,0,137.18,QB Justin Fields RB Saquon Barkley RB Travis Etienne Jr. WR Stefon Diggs WR JuJu Smith-Schuster WR Donovan Peoples-Jones FLEX Greg Dulcich TE Evan Engram DST Colts ,,Vikings,DST,36.36%,15
+7,3490761973,sokirkab,0,131.5,QB Tua Tagovailoa RB Alvin Kamara RB Darrell Henderson Jr. FLEX Tyreek Hill WR Darnell Mooney WR Rondale Moore WR George Pickens TE Dalton Schultz DST Vikings ,,Patrick Mahomes,QB,27.27%,35.14
+8,3494337884,jcameronmetz,0,123.64,QB Patrick Mahomes RB Alvin Kamara RB Travis Etienne Jr. WR JuJu Smith-Schuster WR Marvin Jones Jr. FLEX Parris Campbell WR Treylon Burks TE Travis Kelce DST Vikings ,,Alvin Kamara,RB,27.27%,7.5
+9,3493621445,Matthew.walsh5,0,119.94,QB Patrick Mahomes RB Travis Etienne Jr. RB Dameon Pierce WR Amon-Ra St. Brown FLEX Adam Thielen WR Rondale Moore WR Mack Hollins TE Greg Dulcich DST Rams ,,Rondale Moore,WR,27.27%,18.4
+10,3494368458,cciaburri,0,113.88,QB Daniel Jones RB Saquon Barkley FLEX Travis Etienne Jr. RB Jamaal Williams WR Gabe Davis WR Chase Claypool WR Samori Toure TE Tyler Higbee DST Giants ,,George Pickens,WR,27.27%,14.5
+11,3492525723,dalla2746,0,109.86,QB Trevor Lawrence RB Alvin Kamara RB David Montgomery FLEX Cooper Kupp WR Christian Kirk WR George Pickens WR Marquez Valdes-Scantling TE Greg Dulcich DST Saints ,,Donovan Peoples-Jones,WR,27.27%,14.9
+,,,,,,,Mack Hollins,WR,27.27%,3.8
+,,,,,,,Tony Pollard,RB,18.18%,24.8
+,,,,,,,Dameon Pierce,RB,18.18%,13.2
+,,,,,,,Tyreek Hill,WR,18.18%,15.4
+,,,,,,,Christian Kirk,WR,18.18%,34.5
+,,,,,,,Marquez Valdes-Scantling,WR,18.18%,15
+,,,,,,,Travis Kelce,TE,18.18%,20.1
+,,,,,,,Harrison Bryant,FLEX,18.18%,10.5
+,,,,,,,Tua Tagovailoa,QB,9.09%,23.4
+,,,,,,,Dak Prescott,QB,9.09%,21.2
+,,,,,,,Daniel Jones,QB,9.09%,18.28
+,,,,,,,Trevor Lawrence,QB,9.09%,20.96
+,,,,,,,D'Andre Swift,RB,9.09%,8.2
+,,,,,,,David Montgomery,RB,9.09%,5.4
+,,,,,,,Jamaal Williams,RB,9.09%,11.9
+,,,,,,,Devin Singletary,RB,9.09%,16.7
+,,,,,,,Jeff Wilson Jr.,FLEX,9.09%,25.3
+,,,,,,,Darrell Henderson Jr.,RB,9.09%,10.2
+,,,,,,,Cooper Kupp,FLEX,9.09%,2.9
+,,,,,,,Justin Jefferson,WR,9.09%,38.3
+,,,,,,,Davante Adams,FLEX,9.09%,30.6
+,,,,,,,Stefon Diggs,WR,9.09%,27.8
+,,,,,,,CeeDee Lamb,WR,9.09%,41
+,,,,,,,Amon-Ra St. Brown,WR,9.09%,25.1
+,,,,,,,Chris Olave,WR,9.09%,7
+,,,,,,,Gabe Davis,WR,9.09%,21.3
+,,,,,,,Allen Lazard,WR,9.09%,7.5
+,,,,,,,Jerry Jeudy,WR,9.09%,0
+,,,,,,,Darnell Mooney,WR,9.09%,9.7
+,,,,,,,Adam Thielen,FLEX,9.09%,9.9
+,,,,,,,Chase Claypool,WR,9.09%,1.8
+,,,,,,,Marvin Jones Jr.,WR,9.09%,4.3
+,,,,,,,Parris Campbell,FLEX,9.09%,20.6
+,,,,,,,Samori Toure,WR,9.09%,0
+,,,,,,,Treylon Burks,WR,9.09%,5.4
+,,,,,,,Dalton Schultz,TE,9.09%,17.4
+,,,,,,,Tyler Higbee,TE,9.09%,15.3
+,,,,,,,Evan Engram,TE,9.09%,4.4
+,,,,,,,Foster Moreau,TE,9.09%,13.3
+,,,,,,,Tanner Hudson,TE,9.09%,5.4
+,,,,,,,Giants,DST,9.09%,9
+,,,,,,,Saints,DST,9.09%,7
+,,,,,,,Rams,DST,9.09%,2
+,,,,,,,Steelers,DST,9.09%,10
+,,,,,,,Colts,DST,9.09%,3
+,,,,,,,Browns,DST,9.09%,-3
+,,,,,,,Jaguars,DST,9.09%,6

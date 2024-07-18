@@ -1,0 +1,62 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3400415748,Matthew.walsh5,0,173.58,QB Russell Wilson RB Austin Ekeler RB Rashaad Penny WR CeeDee Lamb WR Gabe Davis WR Jerry Jeudy FLEX Alec Pierce TE Dallas Goedert DST Giants ,,Khalil Herbert,RB,60.00%,11.1
+2,3401497946,802the805,0,149.7,QB Geno Smith RB Jonathan Taylor RB Khalil Herbert WR CeeDee Lamb WR Diontae Johnson WR Tyler Lockett FLEX Romeo Doubs TE T.J. Hockenson DST Broncos ,,David Njoku,TE,40.00%,10.7
+3,3396143255,dalla2746,0,116.52,QB Derek Carr RB Dameon Pierce RB Breece Hall FLEX Davante Adams WR Amari Cooper WR Drake London WR Rashod Bateman TE Pat Freiermuth DST Jets ,,CeeDee Lamb,WR,30.00%,21.7
+4,3396590741,abc010,0,112.12,QB Derek Carr RB Saquon Barkley RB Khalil Herbert WR Stefon Diggs WR Diontae Johnson WR Brandin Cooks FLEX Pat Freiermuth TE David Njoku DST Jaguars ,,Diontae Johnson,WR,30.00%,4.2
+5,3395571072,frankmkerr23,0,105.62,QB Josh Allen RB Jamaal Williams RB Khalil Herbert WR A.J. Brown FLEX Gabe Davis WR Rashod Bateman WR Richie James Jr. TE David Njoku DST Titans ,,Richie James Jr.,WR,30.00%,0.9
+6,3401523962,cciaburri,0,105.1,QB Carson Wentz RB Saquon Barkley RB Aaron Jones FLEX Jamaal Williams WR Terry McLaurin WR Curtis Samuel WR Mack Hollins TE Evan Engram DST Titans ,,Josh Allen,QB,20.00%,24.52
+7,3401075855,QTURNER17,0,98.36,QB Jalen Hurts RB Nick Chubb RB James Robinson WR A.J. Brown WR Christian Kirk WR Robbie Anderson TE David Njoku FLEX O.J. Howard DST Patriots ,,Derek Carr,QB,20.00%,11.52
+8,3400520164,sokirkab,0,91.16,QB Marcus Mariota RB Ezekiel Elliott RB Khalil Herbert WR CeeDee Lamb WR Tyler Lockett WR Jerry Jeudy TE Mark Andrews FLEX Kyle Pitts DST Seahawks ,,Jonathan Taylor,RB,20.00%,4.3
+9,3393547359,Iceman_1733,0,77.42,QB Josh Allen RB Javonte Williams RB Khalil Herbert WR Stefon Diggs WR Michael Pittman Jr. WR Richie James Jr. TE David Njoku FLEX Tyler Conklin DST Texans ,,Saquon Barkley,RB,20.00%,21.2
+10,3399669448,jcameronmetz,0,73.3,QB Justin Herbert RB Jonathan Taylor RB Khalil Herbert WR Diontae Johnson WR Brandin Cooks FLEX Joshua Palmer WR Richie James Jr. TE Kyle Pitts DST Commanders ,,Jamaal Williams,RB,20.00%,26.9
+,,,,,,,Stefon Diggs,WR,20.00%,10.2
+,,,,,,,A.J. Brown,WR,20.00%,14.5
+,,,,,,,Gabe Davis,WR,20.00%,2.3
+,,,,,,,Tyler Lockett,WR,20.00%,14.1
+,,,,,,,Brandin Cooks,WR,20.00%,18.7
+,,,,,,,Rashod Bateman,WR,20.00%,4.7
+,,,,,,,Jerry Jeudy,WR,20.00%,15.3
+,,,,,,,Kyle Pitts,TE,20.00%,3.5
+,,,,,,,Pat Freiermuth,TE,20.00%,15.5
+,,,,,,,Titans,DST,20.00%,10
+,,,,,,,Jalen Hurts,QB,10.00%,16.96
+,,,,,,,Justin Herbert,QB,10.00%,24.1
+,,,,,,,Russell Wilson,QB,10.00%,27.48
+,,,,,,,Carson Wentz,QB,10.00%,9.3
+,,,,,,,Marcus Mariota,QB,10.00%,4.86
+,,,,,,,Geno Smith,QB,10.00%,34.7
+,,,,,,,Nick Chubb,RB,10.00%,23.7
+,,,,,,,Austin Ekeler,RB,10.00%,34.9
+,,,,,,,Aaron Jones,RB,10.00%,17.5
+,,,,,,,Javonte Williams,RB,10.00%,3.7
+,,,,,,,James Robinson,RB,10.00%,2.9
+,,,,,,,Ezekiel Elliott,RB,10.00%,10.1
+,,,,,,,Dameon Pierce,RB,10.00%,28.9
+,,,,,,,Breece Hall,RB,10.00%,15.8
+,,,,,,,Rashaad Penny,RB,10.00%,31.7
+,,,,,,,Davante Adams,FLEX,10.00%,22.5
+,,,,,,,Michael Pittman Jr.,WR,10.00%,6.1
+,,,,,,,Christian Kirk,WR,10.00%,8.3
+,,,,,,,Terry McLaurin,WR,10.00%,3.5
+,,,,,,,Amari Cooper,WR,10.00%,1.9
+,,,,,,,Drake London,WR,10.00%,3.7
+,,,,,,,Curtis Samuel,WR,10.00%,7.8
+,,,,,,,Joshua Palmer,FLEX,10.00%,3.5
+,,,,,,,Robbie Anderson,WR,10.00%,5.6
+,,,,,,,Romeo Doubs,FLEX,10.00%,14.7
+,,,,,,,Mack Hollins,WR,10.00%,6.3
+,,,,,,,Alec Pierce,FLEX,10.00%,12
+,,,,,,,Mark Andrews,TE,10.00%,3.5
+,,,,,,,Dallas Goedert,TE,10.00%,12.2
+,,,,,,,T.J. Hockenson,TE,10.00%,42.9
+,,,,,,,Tyler Conklin,FLEX,10.00%,8.2
+,,,,,,,Evan Engram,TE,10.00%,2.6
+,,,,,,,O.J. Howard,FLEX,10.00%,4.7
+,,,,,,,Giants,DST,10.00%,16
+,,,,,,,Broncos,DST,10.00%,2
+,,,,,,,Commanders,DST,10.00%,3
+,,,,,,,Jets,DST,10.00%,12
+,,,,,,,Seahawks,DST,10.00%,7
+,,,,,,,Texans,DST,10.00%,2
+,,,,,,,Jaguars,DST,10.00%,9
+,,,,,,,Patriots,DST,10.00%,11

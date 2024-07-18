@@ -1,0 +1,53 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3607049239,Matthew.walsh5,0,135.20001,DST Vikings  FLEX George Pickens QB Joe Burrow RB Cam Akers RB Najee Harris TE Albert Okwuegbunam WR Ja'Marr Chase WR Chris Olave WR Brandin Cooks,,Cam Akers,RB,50.00%,18.8
+2,3605354477,abc010,0,122.86,DST 49ers  FLEX Dalton Schultz QB Josh Allen RB Kenneth Walker III RB Najee Harris TE Pat Freiermuth WR Amari Cooper WR Garrett Wilson WR Drake London,,Najee Harris,RB,40.00%,15.4
+3,3603643190,frankmkerr23,0,118.6,DST Texans  FLEX Jonathan Williams QB Joe Burrow RB Kenneth Walker III RB Cam Akers TE Pat Freiermuth WR Ja'Marr Chase WR Amari Cooper WR Drake London,,Greg Dortch,WR,40.00%,8.5
+4,3606138279,QTURNER17,0,118.41999,DST Texans  FLEX Greg Dortch QB Geno Smith RB Joe Mixon RB Kenneth Walker III TE David Njoku WR Tyreek Hill WR Tyler Lockett WR Jakobi Meyers,,Kenneth Walker III,RB,40.00%,16.4
+5,3606827783,802the805,0,116.02,DST Colts  FLEX A.J. Brown QB Geno Smith RB Cam Akers RB Najee Harris TE Hunter Henry WR DK Metcalf WR Tyler Lockett WR Rashid Shaheed,,Jonathan Williams,FLEX,30.00%,6.1
+6,3606338068,sokirkab,0,114.46,DST Dolphins  FLEX T.J. Hockenson QB Josh Allen RB Tyler Allgeier RB Jonathan Williams TE Albert Okwuegbunam WR Ja'Marr Chase WR Stefon Diggs WR Greg Dortch,,DK Metcalf,WR,30.00%,7
+7,3607280293,jcameronmetz,0,108.92,DST Cardinals  FLEX Tyler Lockett QB Geno Smith RB Christian McCaffrey RB Cam Akers TE Hunter Henry WR DK Metcalf WR Garrett Wilson WR Rashid Shaheed,,Joe Burrow,QB,30.00%,12.6
+8,3606393748,dalla2746,0,104.420006,DST Panthers  FLEX Dalton Schultz QB Brock Purdy RB Kenneth Walker III RB D'Onta Foreman TE George Kittle WR Justin Jefferson WR Brandon Aiyuk WR Greg Dortch,,Ja'Marr Chase,WR,30.00%,22.6
+9,3600802537,Iceman_1733,0,91.06,DST Falcons  FLEX Jonathan Williams QB Jalen Hurts RB Cam Akers RB Najee Harris TE Dawson Knox WR A.J. Brown WR DK Metcalf WR Greg Dortch,,Geno Smith,QB,30.00%,15.62
+10,3607592511,cciaburri,0,84.1,DST Colts  FLEX Gabe Davis QB Joe Burrow RB Joe Mixon RB Gus Edwards TE Donald Parham Jr. WR CeeDee Lamb WR Chris Godwin WR Curtis Samuel,,Tyler Lockett,WR,30.00%,15.4
+,,,,,,,A.J. Brown,WR,20.00%,13.5
+,,,,,,,Amari Cooper,WR,20.00%,7.1
+,,,,,,,Drake London,WR,20.00%,21
+,,,,,,,Pat Freiermuth,TE,20.00%,0
+,,,,,,,Texans ,DST,20.00%,14
+,,,,,,,Josh Allen,QB,20.00%,22.76
+,,,,,,,Garrett Wilson,WR,20.00%,17.9
+,,,,,,,Dalton Schultz,FLEX,20.00%,7.3
+,,,,,,,Joe Mixon,RB,20.00%,17.8
+,,,,,,,Albert Okwuegbunam,TE,20.00%,0
+,,,,,,,Rashid Shaheed,WR,20.00%,7.1
+,,,,,,,Hunter Henry,TE,20.00%,10.2
+,,,,,,,Colts ,DST,20.00%,13
+,,,,,,,Jalen Hurts,QB,10.00%,9.46
+,,,,,,,Dawson Knox,TE,10.00%,9.3
+,,,,,,,Falcons ,DST,10.00%,3
+,,,,,,,49ers ,DST,10.00%,15
+,,,,,,,Tyreek Hill,WR,10.00%,4.3
+,,,,,,,Jakobi Meyers,WR,10.00%,12.2
+,,,,,,,David Njoku,TE,10.00%,14.2
+,,,,,,,Tyler Allgeier,RB,10.00%,16.5
+,,,,,,,Stefon Diggs,WR,10.00%,26.4
+,,,,,,,T.J. Hockenson,FLEX,10.00%,2.6
+,,,,,,,Dolphins ,DST,10.00%,9
+,,,,,,,Brock Purdy,QB,10.00%,19.82
+,,,,,,,D'Onta Foreman,RB,10.00%,6.8
+,,,,,,,Justin Jefferson,WR,10.00%,7.8
+,,,,,,,Brandon Aiyuk,WR,10.00%,9.9
+,,,,,,,George Kittle,TE,10.00%,18.9
+,,,,,,,Panthers ,DST,10.00%,9
+,,,,,,,Chris Olave,WR,10.00%,16
+,,,,,,,George Pickens,FLEX,10.00%,16.2
+,,,,,,,Brandin Cooks,WR,10.00%,24.6
+,,,,,,,Vikings ,DST,10.00%,9
+,,,,,,,Christian McCaffrey,RB,10.00%,16.9
+,,,,,,,Cardinals ,DST,10.00%,0
+,,,,,,,Gus Edwards,RB,10.00%,1.6
+,,,,,,,CeeDee Lamb,WR,10.00%,16.2
+,,,,,,,Chris Godwin,WR,10.00%,10.5
+,,,,,,,Gabe Davis,FLEX,10.00%,6.9
+,,,,,,,Curtis Samuel,WR,10.00%,0.4
+,,,,,,,Donald Parham Jr.,TE,10.00%,5.1

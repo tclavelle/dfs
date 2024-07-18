@@ -1,0 +1,63 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3410968542,abc010,0,177.06,QB Josh Allen RB Jeff Wilson Jr. RB Rhamondre Stevenson WR Cooper Kupp WR Chris Olave WR Zay Jones FLEX Dallas Goedert TE Pat Freiermuth DST Cowboys ,,Rhamondre Stevenson,RB,50.00%,22.5
+2,3413909609,Matthew.walsh5,0,175.74,QB Tom Brady RB Nick Chubb RB Rhamondre Stevenson WR Terry McLaurin WR Chris Godwin WR Tyler Lockett FLEX George Pickens TE Dallas Goedert DST 49ers ,,Dallas Goedert,TE,41.67%,17.5
+3,3407126485,Iceman_1733,0,154.76001,QB Josh Allen RB Damien Harris RB Rhamondre Stevenson WR Stefon Diggs FLEX Chris Godwin WR Chris Olave WR Khalil Shakir TE Dallas Goedert DST Lions ,,A.J. Brown,FLEX,41.67%,6.2
+4,3414572487,802the805,0,150.56,QB Jalen Hurts RB James Robinson RB Rhamondre Stevenson FLEX A.J. Brown WR Gabe Davis WR Curtis Samuel WR Robert Woods TE Cade Otton DST Cowboys ,,Chris Olave,WR,33.33%,15.4
+5,3410901727,jcameronmetz,0,135.06,QB Jalen Hurts RB Damien Harris RB Jeff Wilson Jr. FLEX A.J. Brown WR Marquise Brown WR A.J. Green WR Khalil Shakir TE Dallas Goedert DST 49ers ,,Tom Brady,QB,33.33%,22.74
+6,3415349845,cciaburri,0,127.73999,QB Tom Brady FLEX Leonard Fournette RB Devin Singletary RB Rhamondre Stevenson WR Mike Evans WR Amari Cooper WR Garrett Wilson TE T.J. Hockenson DST Seahawks ,,Chris Godwin,FLEX,25.00%,12.3
+7,3408928640,frankmkerr23,0,121.64,QB Tom Brady FLEX Alvin Kamara RB Jamaal Williams RB Rhamondre Stevenson WR Christian Kirk WR Chris Godwin WR Drake London TE Dallas Goedert DST Bears ,,Jeff Wilson Jr.,RB,25.00%,23.2
+8,3412619780,dalla2746,0,115.36,QB Carson Wentz RB Nick Chubb RB James Robinson FLEX A.J. Brown WR Terry McLaurin WR Robert Woods WR George Pickens TE Hunter Henry DST Jaguars ,,49ers ,DST,25.00%,15
+9,3412601312,JonnyMonty,0,111.52,QB Teddy Bridgewater RB Dalvin Cook RB James Robinson WR Justin Jefferson WR Chris Olave FLEX Robbie Anderson WR Nelson Agholor TE Tyler Higbee DST 49ers ,,James Robinson,RB,25.00%,5.9
+10,3414561850,QTURNER17,0,98.36,QB Jared Goff RB Miles Sanders RB Dameon Pierce WR Stefon Diggs WR Deebo Samuel WR Nico Collins FLEX Jamal Agnew TE T.J. Hockenson DST Texans ,,Josh Allen,QB,16.67%,39.16
+11,3412120323,sokirkab,0,98.14001,QB Tom Brady RB Khalil Herbert RB Jeff Wilson Jr. WR A.J. Brown WR Mike Evans FLEX Christian Kirk WR Chris Olave TE Cade Otton DST Jaguars ,,Damien Harris,RB,16.67%,2.2
+12,3413801700,stumpjump802,0,83.66,QB Jared Goff RB Jamaal Williams FLEX Devin Singletary RB Raheem Mostert WR Amon-Ra St. Brown WR A.J. Brown WR Tyler Lockett TE Dalton Schultz DST Falcons ,,Stefon Diggs,WR,16.67%,27.2
+,,,,,,,Khalil Shakir,WR,16.67%,16.5
+,,,,,,,Jamaal Williams,RB,16.67%,5.6
+,,,,,,,Christian Kirk,WR,16.67%,2.1
+,,,,,,,Jalen Hurts,QB,16.67%,27.66
+,,,,,,,Cowboys ,DST,16.67%,23
+,,,,,,,Mike Evans,WR,16.67%,12.1
+,,,,,,,Cade Otton,TE,16.67%,10.3
+,,,,,,,Jaguars ,DST,16.67%,5
+,,,,,,,Nick Chubb,RB,16.67%,28.4
+,,,,,,,Terry McLaurin,WR,16.67%,12.6
+,,,,,,,Robert Woods,WR,16.67%,7.7
+,,,,,,,George Pickens,WR,16.67%,14.3
+,,,,,,,Jared Goff,QB,16.67%,7.86
+,,,,,,,Devin Singletary,FLEX,16.67%,5.6
+,,,,,,,Tyler Lockett,WR,16.67%,30.4
+,,,,,,,T.J. Hockenson,TE,16.67%,1.6
+,,,,,,,Lions ,DST,8.33%,2
+,,,,,,,Alvin Kamara,FLEX,8.33%,27.4
+,,,,,,,Drake London,WR,8.33%,7.5
+,,,,,,,Bears ,DST,8.33%,4
+,,,,,,,Marquise Brown,WR,8.33%,21.8
+,,,,,,,A.J. Green,WR,8.33%,5
+,,,,,,,Cooper Kupp,WR,8.33%,28.9
+,,,,,,,Zay Jones,WR,8.33%,4.2
+,,,,,,,Pat Freiermuth,TE,8.33%,3.2
+,,,,,,,Khalil Herbert,RB,8.33%,1.1
+,,,,,,,Teddy Bridgewater,QB,8.33%,0
+,,,,,,,Dalvin Cook,RB,8.33%,26.1
+,,,,,,,Justin Jefferson,WR,8.33%,33.32
+,,,,,,,Robbie Anderson,FLEX,8.33%,4.2
+,,,,,,,Nelson Agholor,WR,8.33%,0
+,,,,,,,Tyler Higbee,TE,8.33%,11.6
+,,,,,,,Carson Wentz,QB,8.33%,25.86
+,,,,,,,Hunter Henry,TE,8.33%,9.4
+,,,,,,,Raheem Mostert,RB,8.33%,22.2
+,,,,,,,Amon-Ra St. Brown,WR,8.33%,5.8
+,,,,,,,Dalton Schultz,TE,8.33%,0
+,,,,,,,Falcons ,DST,8.33%,0
+,,,,,,,Miles Sanders,RB,8.33%,8.4
+,,,,,,,Dameon Pierce,RB,8.33%,20.3
+,,,,,,,Deebo Samuel,WR,8.33%,11.2
+,,,,,,,Nico Collins,WR,8.33%,10.5
+,,,,,,,Jamal Agnew,FLEX,8.33%,0.3
+,,,,,,,Texans ,DST,8.33%,11
+,,,,,,,Gabe Davis,WR,8.33%,35.1
+,,,,,,,Curtis Samuel,WR,8.33%,12.2
+,,,,,,,Leonard Fournette,FLEX,8.33%,35.9
+,,,,,,,Amari Cooper,WR,8.33%,20.6
+,,,,,,,Garrett Wilson,WR,8.33%,5.7
+,,,,,,,Seahawks ,DST,8.33%,1

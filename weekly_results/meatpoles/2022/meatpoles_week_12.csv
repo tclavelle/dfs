@@ -1,0 +1,56 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3521695336,abc010,0,170.5,QB Patrick Mahomes FLEX Austin Ekeler RB Jeff Wilson Jr. RB Rachaad White WR Chris Godwin WR Terry McLaurin WR Garrett Wilson TE Foster Moreau DST Chiefs ,,Chiefs,DST,66.67%,11
+2,3524399707,QTURNER17,0,147.46,QB Tua Tagovailoa RB Kenneth Walker III RB Rachaad White WR Jaylen Waddle WR Tee Higgins WR Amari Cooper FLEX Garrett Wilson TE Juwan Johnson DST Chiefs ,,Jeff Wilson Jr.,RB,58.33%,12.2
+3,3518087329,Iceman_1733,0,139.9,QB Joe Burrow RB Kenneth Walker III RB Jeff Wilson Jr. FLEX Rachaad White WR Tee Higgins WR Keenan Allen WR Skyy Moore TE Mark Andrews DST Chiefs ,,Rachaad White,RB,58.33%,19.9
+4,3523558058,dalla2746,0,138.56,QB Justin Herbert RB Kenneth Walker III RB Jeff Wilson Jr. FLEX Tee Higgins WR Marquise Brown WR Joshua Palmer WR Mack Hollins TE Gerald Everett DST Jets ,,Kenneth Walker III,RB,33.33%,16.9
+5,3517965765,frankmkerr23,0,132.2,QB Joe Burrow FLEX Jeff Wilson Jr. RB Rachaad White RB Latavius Murray WR Davante Adams WR Tee Higgins WR JuJu Smith-Schuster TE Hayden Hurst DST Chiefs ,,Tee Higgins,WR,33.33%,27.4
+6,3523816351,sokirkab,0,124.24,QB Tom Brady RB Isiah Pacheco RB Antonio Gibson FLEX Tyreek Hill WR DeAndre Hopkins WR Mike Evans WR Garrett Wilson TE Austin Hooper DST Chiefs ,,Keenan Allen,WR,33.33%,15.9
+7,3524516993,dank620,0,117.6,QB Joe Burrow FLEX Jeff Wilson Jr. RB Rachaad White RB Latavius Murray WR Davante Adams WR Christian Kirk WR Terry McLaurin TE David Njoku DST Chiefs ,,Tua Tagovailoa,QB,25.00%,15.96
+8,3525380260,Matthew.walsh5,0,117.56,QB Tua Tagovailoa RB Isiah Pacheco RB Latavius Murray WR Tyreek Hill WR Keenan Allen FLEX Courtland Sutton WR Treylon Burks TE Gerald Everett DST Buccaneers ,,Joe Burrow,QB,25.00%,18
+9,3522204778,jcameronmetz,0,115.06,QB Lamar Jackson RB Travis Etienne Jr. RB Michael Carter FLEX Rachaad White WR Keenan Allen WR DJ Moore WR Jarvis Landry TE Mark Andrews DST Chiefs ,,Latavius Murray,RB,25.00%,10.8
+10,3524906634,802the805,0,108.6,QB Patrick Mahomes RB Jeff Wilson Jr. RB Rachaad White WR Keenan Allen WR Tyler Boyd WR Nico Collins FLEX Ben Skowronek TE Travis Kelce DST Buccaneers ,,Tyreek Hill,WR,25.00%,15
+11,3521358928,cciaburri,0,104.14,QB Tom Brady RB Kenneth Walker III FLEX James Conner RB Jeff Wilson Jr. WR Mike Evans WR JuJu Smith-Schuster WR Curtis Samuel TE Gerald Everett DST Chiefs ,,Terry McLaurin,WR,25.00%,9.3
+12,3525499669,sarahskerr,0,91.06,QB Tua Tagovailoa RB Travis Etienne Jr. RB Samaje Perine FLEX Tyreek Hill WR Terry McLaurin WR Joshua Palmer WR Donovan Peoples-Jones TE Austin Hooper DST Panthers ,,Garrett Wilson,WR,25.00%,26.4
+,,,,,,,Gerald Everett,TE,25.00%,7.8
+,,,,,,,Patrick Mahomes,QB,16.67%,22.4
+,,,,,,,Tom Brady,QB,16.67%,18.04
+,,,,,,,Travis Etienne Jr.,RB,16.67%,0.3
+,,,,,,,Isiah Pacheco,RB,16.67%,15.6
+,,,,,,,Davante Adams,WR,16.67%,14.4
+,,,,,,,Mike Evans,WR,16.67%,5.1
+,,,,,,,JuJu Smith-Schuster,WR,16.67%,6.8
+,,,,,,,Joshua Palmer,WR,16.67%,10.6
+,,,,,,,Mark Andrews,TE,16.67%,11
+,,,,,,,Austin Hooper,TE,16.67%,6
+,,,,,,,Buccaneers,DST,16.67%,6
+,,,,,,,Lamar Jackson,QB,8.33%,24.06
+,,,,,,,Justin Herbert,QB,8.33%,28.76
+,,,,,,,Austin Ekeler,FLEX,8.33%,25
+,,,,,,,James Conner,FLEX,8.33%,25
+,,,,,,,Samaje Perine,RB,8.33%,19.3
+,,,,,,,Antonio Gibson,RB,8.33%,8.4
+,,,,,,,Michael Carter,RB,8.33%,5.6
+,,,,,,,DeAndre Hopkins,WR,8.33%,18.7
+,,,,,,,Jaylen Waddle,WR,8.33%,13.5
+,,,,,,,Christian Kirk,WR,8.33%,8.1
+,,,,,,,Amari Cooper,WR,8.33%,16.4
+,,,,,,,Chris Godwin,WR,8.33%,32
+,,,,,,,Tyler Boyd,WR,8.33%,3.6
+,,,,,,,Courtland Sutton,FLEX,8.33%,13.5
+,,,,,,,Marquise Brown,WR,8.33%,10.6
+,,,,,,,DJ Moore,WR,8.33%,23.3
+,,,,,,,Curtis Samuel,WR,8.33%,1.3
+,,,,,,,Donovan Peoples-Jones,WR,8.33%,3.6
+,,,,,,,Mack Hollins,WR,8.33%,16.3
+,,,,,,,Jarvis Landry,WR,8.33%,4
+,,,,,,,Treylon Burks,WR,8.33%,17
+,,,,,,,Nico Collins,WR,8.33%,10.4
+,,,,,,,Ben Skowronek,FLEX,8.33%,2.5
+,,,,,,,Skyy Moore,WR,8.33%,7.6
+,,,,,,,Travis Kelce,TE,8.33%,15.7
+,,,,,,,David Njoku,TE,8.33%,13.9
+,,,,,,,Foster Moreau,TE,8.33%,12.3
+,,,,,,,Juwan Johnson,TE,8.33%,0
+,,,,,,,Hayden Hurst,TE,8.33%,11.7
+,,,,,,,Jets,DST,8.33%,8
+,,,,,,,Panthers,DST,8.33%,11

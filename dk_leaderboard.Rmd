@@ -1,0 +1,266 @@
+---
+output: 
+  html_document:
+    theme: cosmo 
+params:
+  league: 'Meatpoles'
+  season: 2023
+  week: 18
+---
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE, fig.align = 'center')
+```
+
+```{r, fig.width=0.2, eval=FALSE}
+knitr::include_graphics(path = 'dk_logo.png')
+```
+
+# `r params$season` Meatpoles Season Standings, Week `r params$week`
+#### `r Sys.Date()`
+
+```{r}
+library(tidyverse)
+library(glue)
+library(purrr)
+library(DT)
+# library(kableExtra)
+```
+
+
+```{r}
+# Results directory
+results_dir <- here::here(glue('weekly_results/{tolower(params$league)}/{params$season}'))
+```
+
+
+```{r results}
+# Get list of weekly result files
+weekly_result_files <- list.files(results_dir)
+
+# function to process list of weekly results
+weekly_file_df <- function(week_result){
+  df <- read_csv(here::here(results_dir, week_result)) %>% 
+          select(rank = Rank, 
+                 team = EntryName, 
+                 points = Points) %>% 
+          filter(!is.na(team)) %>% 
+          mutate(week = as.numeric(str_extract(week_result,"(?<=_| )[^_ ]+(?=\\_2023.csv)"))) 
+  return(df)
+}
+```
+
+```{r}
+# Process all weekly files
+weekly_result_df <- map_dfr(weekly_result_files, weekly_file_df)
+```
+
+```{r}
+# Dataframe of entry costs and prize pool
+payout_df <- tibble (
+  week = c(1:params$week),
+  entry = rep(20, params$week),
+  first = c(
+    180,
+    126,
+    138.60,
+    138.6,
+    138.6,
+    126,
+    126,
+    100.80,
+    113.40,
+    126,
+    126,
+    126,
+    113.40,
+    113.40,
+    113.40,
+    113.40,
+    88.20,
+    113.40),
+  second = c(
+    -20,
+    54,
+    59.40,
+    59.4,
+    59.4,
+    54,
+    54,
+    43.20,
+    48.60, 
+    54,
+    54,
+    54,
+    48.60,
+    48.60,
+    48.60,
+    48.60,
+    37.80,
+    48.60) # -20 in week one to adjust for winner take all
+)
+```
+
+```{r}
+# Add winnings to weekly df
+weekly_result_df <- weekly_result_df %>% 
+  left_join(payout_df) %>% 
+  mutate(net = case_when(
+    rank == 1 ~ first,
+    rank == 2 ~ second,
+    .default = 0
+  ))
+  # mutate(net = ifelse(rank == 1, purse, -entry))
+```
+
+
+```{r}
+# Extract weekly total, winner/loser, and whoever didn't enter a lineup
+week_totals <- filter(weekly_result_df, week == params$week)
+week_winner <- week_totals$team[week_totals$rank == 1]
+week_runner_up <- week_totals$team[week_totals$rank == 2]
+week_loser <- week_totals$team[week_totals$rank == max(week_totals$rank)]
+week_payout_1 <- payout_df$first[payout_df$week == params$week]
+week_payout_2 <- payout_df$second[payout_df$week == params$week]
+```
+
+
+> Welcome to the Week `r params$week` leaderboard, the conclusion of the `r params$year` season of the `r params$league` DraftKings league. This week's winner was <span style="color:#9ac434">`r week_winner`</span>, scoring `r week_totals$points[week_totals$rank == 1]` points and taking home $`r week_payout_1`. <span style="color:#f46c22">`r week_runner_up`</span>, took home second place with `r week_totals$points[week_totals$rank == 2]` points, good for $`r week_payout_2`. 
+
+::: {.panel-tabset}
+
+## Week `r params$week` Results
+
+```{r, out.width='80%'}
+dk_cols <- c('#9ac434','#f46c22',rep.int("grey50", max(week_totals$rank) - 2))
+
+ggplot(data = week_totals,
+       aes(x = fct_reorder(team, rank, desc), 
+           y = points)) +
+  geom_col(aes(fill = as.character(rank))) +
+  geom_label(aes(label = points),
+             hjust = 1.2) +
+  scale_fill_manual(
+    values = dk_cols,
+    breaks = as.character(c(1:max(week_totals$rank))),
+    guide = FALSE
+    ) +
+  coord_flip() +
+  labs(x = NULL,
+       y = 'Score') +
+  theme_minimal() +
+  theme(panel.grid.major.x = element_blank(),
+        panel.grid.minor.x = element_blank(),
+        panel.grid.major.y = element_blank(),
+        axis.text = element_text(color = '#f46c22'),
+        axis.title.x = element_text(color = '#f46c22'))
+```
+:::
+
+## Season Standings through Week `r params$week`
+
+```{r}
+# Summarize season totals by player
+season_summary <- weekly_result_df %>% 
+  group_by(team) %>% 
+  summarize(weeks_played = n_distinct(week),
+            total_points = round(sum(points, na.rm = T), digits = 2),
+            avg_points = round(mean(points, na.rm = T), digits = 2),
+            wins = sum(ifelse(rank == 1, 1, 0)),
+            second = sum(ifelse(rank == 2 & week != 1, 1, 0)),
+            avg_rank = mean(rank, na.rm = T),
+            high_score = max(points, na.rm = T),
+            min_score = min(points, na.rm = T),
+            winnings = sum(net, na.rm = T)) %>% 
+  arrange(desc(total_points))
+
+# Top 14 scores per player
+top_14 <- weekly_result_df %>% 
+  group_by(team) %>% 
+  mutate(score_rank = dense_rank(desc(points))) %>% 
+  filter(score_rank <= 14) %>% 
+  summarize(top_14 = sum(points)) %>% 
+  arrange(desc(top_14))
+
+season_summary <- season_summary %>% 
+  left_join(top_14)
+```
+
+### Meatpoles Season Championship Standings
+
+The following table summarizes the final standings for the Meatpoles 2022 Season Championship. The standings are based on each team's top 14 scores during the 18 week NFL regular season. This allows teams to throw out their worst four scores.
+
++ **Winner**: $500
++ **Runner-up**: $100
+
+```{r}
+season_standings <- season_summary %>% 
+  filter(team %in% c('abc010','Matthew.walsh5','dalla2746','802the805','sokirkab','cciaburri')) %>% 
+  mutate(avg_rank = round(avg_rank, digits = 1)) %>% 
+  arrange(desc(top_14)) %>% 
+  mutate(Rank = dense_rank(desc(top_14))) %>% 
+  select(
+    Rank,
+    Team = team,
+    `Weeks played` = weeks_played,
+    `Total points (top 14 scores)` = top_14
+  )
+
+season_standings %>% 
+  knitr::kable() %>% 
+  kableExtra::kable_styling(position = 'center')
+```
+
+
+### Meatpoles Complete Standings
+
+The following scoreboard summarizes the full Meatpoles season, including all teams that entered a Main Slate contest.
+
+```{r,}
+season_summary %>% 
+  select(
+    Team = team,
+    `Weeks played` = weeks_played,
+    `Winnings` = winnings,
+    `Total points` = total_points,
+    `Avg. points` = avg_points,
+    Wins = wins,
+    `Runner-ups` = second
+  ) %>% 
+  arrange(desc(Wins), desc(`Winnings`)) %>% 
+  knitr::kable() %>% 
+  kableExtra::kable_styling(position = 'center')
+```
+
+
+### Weekly Scoreboard
+
+```{r, out.width='95%', fig.cap="Weekly scores"}
+weekly_result_df %>% 
+  ggplot(aes(x = 1, y = team)) +
+  geom_tile(aes(fill = rank),
+            width = 1) +
+  geom_text(aes(label = round(points, digits = 2)),
+            size = 2) +
+  scale_fill_gradient(
+    low = "#9ac434", 
+    high = "#ffffff",
+    guide = 'none') +
+  labs(x = 'Week',
+       y = NULL,
+       fill = 'Place') +
+  facet_wrap(~week, nrow = 1) +
+  theme_minimal() +
+  theme(legend.position = 'bottom', 
+        axis.line = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        axis.text = element_text(color = '#f46c22'),
+        axis.text.x = element_blank(),
+        axis.title.x = element_blank(),
+        panel.spacing = unit(0, 'lines'))
+```
+
+
+
+

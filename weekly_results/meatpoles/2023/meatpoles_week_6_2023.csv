@@ -1,0 +1,48 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,3965736707,dank620,0,153.34,DST Dolphins  FLEX D'Onta Foreman QB Matthew Stafford RB Kyren Williams RB Raheem Mostert TE Evan Engram WR Ja'Marr Chase WR Adam Thielen WR K.J. Osborn,,Raheem Mostert,RB,70.00%,37.2
+2,3965381816,802the805,0,150.34,DST Buccaneers  FLEX Rondale Moore QB Matthew Stafford RB Raheem Mostert RB D'Andre Swift TE Logan Thomas WR Cooper Kupp WR Ja'Marr Chase WR Drake London,,Matthew Stafford,QB,60.00%,13.24
+3,3962631581,abc010,0,149.2,DST Lions  FLEX Chuba Hubbard QB Joe Burrow RB Alvin Kamara RB Raheem Mostert TE Logan Thomas WR Tyreek Hill WR Christian Kirk WR Marquise Brown,,Cooper Kupp,WR,50.00%,30.8
+4,3966405106,sokirkab,0,147.24,DST Patriots  FLEX Christian McCaffrey QB Matthew Stafford RB Raheem Mostert RB Chuba Hubbard TE Mike Gesicki WR Cooper Kupp WR Christian Kirk WR Josh Downs,,Christian Kirk,WR,50.00%,13.9
+5,3966721630,frankmkerr23,0,142.14,DST Patriots  FLEX Josh Reynolds QB Baker Mayfield RB Travis Etienne Jr. RB Raheem Mostert TE Kyle Pitts WR Cooper Kupp WR Mike Evans WR K.J. Osborn,,Marquise Brown,WR,40.00%,7.4
+6,3962799716,jcameronmetz,0,138.84,DST Lions  FLEX Marquise Brown QB Matthew Stafford RB Kyren Williams RB D'Andre Swift TE Evan Engram WR Cooper Kupp WR Christian Kirk WR K.J. Osborn,,Kyren Williams,RB,30.00%,24.8
+7,3965436032,dalla2746,0,132.78,DST Commanders  FLEX Christian Kirk QB Tua Tagovailoa RB Kyren Williams RB Dameon Pierce TE Logan Thomas WR Jaylen Waddle WR Adam Thielen WR Marquise Brown,,Chuba Hubbard,RB,30.00%,16
+8,3961395750,Iceman_1733,0,126.84,DST Browns  FLEX Curtis Samuel QB Matthew Stafford RB D'Onta Foreman RB Chuba Hubbard TE T.J. Hockenson WR Cooper Kupp WR Ja'Marr Chase WR Christian Kirk,,Ja'Marr Chase,WR,30.00%,14
+9,3966004786,Matthew.walsh5,0,123.14,DST 49ers  FLEX Joe Mixon QB Matthew Stafford RB Alvin Kamara RB Raheem Mostert TE T.J. Hockenson WR Marquise Brown WR Josh Downs WR Robert Woods,,K.J. Osborn,WR,30.00%,8.8
+10,3966043124,molly_camp,0,111.68,DST Jaguars  FLEX Tank Bigsby QB Tua Tagovailoa RB Raheem Mostert RB Zack Moss TE George Kittle WR Jaylen Waddle WR Deebo Samuel WR Hunter Renfrow,,Logan Thomas,TE,30.00%,1.2
+,,,,,,,Tua Tagovailoa,QB,20.00%,22.48
+,,,,,,,Alvin Kamara,RB,20.00%,17.4
+,,,,,,,D'Andre Swift,RB,20.00%,18.8
+,,,,,,,D'Onta Foreman,RB,20.00%,7.7
+,,,,,,,Jaylen Waddle,WR,20.00%,18.1
+,,,,,,,Adam Thielen,WR,20.00%,31.5
+,,,,,,,Josh Downs,WR,20.00%,13.1
+,,,,,,,T.J. Hockenson,TE,20.00%,11
+,,,,,,,Evan Engram,TE,20.00%,11.1
+,,,,,,,Lions,DST,20.00%,10
+,,,,,,,Patriots,DST,20.00%,3
+,,,,,,,Joe Burrow,QB,10.00%,14.8
+,,,,,,,Baker Mayfield,QB,10.00%,7.84
+,,,,,,,Christian McCaffrey,FLEX,10.00%,14.2
+,,,,,,,Travis Etienne Jr.,RB,10.00%,23.3
+,,,,,,,Joe Mixon,FLEX,10.00%,9.2
+,,,,,,,Zack Moss,RB,10.00%,17.9
+,,,,,,,Dameon Pierce,RB,10.00%,3.4
+,,,,,,,Tank Bigsby,FLEX,10.00%,1.8
+,,,,,,,Tyreek Hill,WR,10.00%,31.3
+,,,,,,,Mike Evans,WR,10.00%,8.9
+,,,,,,,Deebo Samuel,WR,10.00%,1.1
+,,,,,,,Drake London,WR,10.00%,24.5
+,,,,,,,Josh Reynolds,FLEX,10.00%,8
+,,,,,,,Robert Woods,WR,10.00%,7.6
+,,,,,,,Curtis Samuel,FLEX,10.00%,14.2
+,,,,,,,Hunter Renfrow,WR,10.00%,0
+,,,,,,,Rondale Moore,FLEX,10.00%,6.6
+,,,,,,,George Kittle,TE,10.00%,1.1
+,,,,,,,Kyle Pitts,TE,10.00%,14.3
+,,,,,,,Mike Gesicki,TE,10.00%,5.8
+,,,,,,,49ers,DST,10.00%,7
+,,,,,,,Dolphins,DST,10.00%,5
+,,,,,,,Jaguars,DST,10.00%,12
+,,,,,,,Commanders,DST,10.00%,10
+,,,,,,,Buccaneers,DST,10.00%,4
+,,,,,,,Browns,DST,10.00%,6
