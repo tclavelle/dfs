@@ -1,0 +1,67 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,4412279407,Matthew.walsh5,0,162.2,DST Colts  FLEX Jordan Mason QB Baker Mayfield RB Tony Pollard RB Zach Charbonnet TE Brock Bowers WR Cooper Kupp WR Chris Godwin WR Malik Nabers,,Jordan Mason,RB,61.54%,20.4
+2,4413360674,frankmkerr23,0,158.54,DST Cardinals  FLEX Brian Thomas Jr. QB Jayden Daniels RB J.K. Dobbins RB Jordan Mason TE Colby Parkinson WR CeeDee Lamb WR Justin Jefferson WR Malik Nabers,,Cooper Kupp,WR,53.85%,7.7
+3,4413759110,sarahskerr,0,140.58,DST Cardinals  FLEX Alvin Kamara QB Jared Goff RB Josh Jacobs RB Zack Moss TE Isaiah Likely WR Zay Flowers WR George Pickens WR Jameson Williams,,Patrick Mahomes,QB,30.77%,14.94
+4,4412562317,Iceman_1733,0,134.14,DST Chargers  FLEX Foster Moreau QB Matthew Stafford RB Zach Charbonnet RB Jordan Mason TE Brock Bowers WR CeeDee Lamb WR Cooper Kupp WR Malik Nabers,,J.K. Dobbins,RB,30.77%,23.1
+5,4413641303,jcameronmetz,0,133.74,DST Patriots  FLEX Rashee Rice QB Patrick Mahomes RB J.K. Dobbins RB Jordan Mason TE Drew Sample WR CeeDee Lamb WR Amon-Ra St. Brown WR Allen Lazard,,Rashee Rice,WR,30.77%,18.5
+6,4406522588,QTURNER17,0,131.6,DST Cardinals  FLEX Isaiah Likely QB Baker Mayfield RB Breece Hall RB J.K. Dobbins TE Jordan Akins WR Mike Evans WR Deebo Samuel Sr. WR Rashee Rice,,Cardinals,DST,30.77%,11
+7,4413372849,dank620,0,116.86,DST Cardinals  FLEX Jonathan Taylor QB Anthony Richardson RB Tony Pollard RB Jordan Mason TE Colby Parkinson WR Amon-Ra St. Brown WR Cooper Kupp WR Allen Lazard,,Breece Hall,RB,23.08%,24.4
+8,4411861342,cciaburri,0,116.06,DST Ravens  FLEX Cooper Kupp QB Anthony Richardson RB James Conner RB Jerome Ford TE Isaiah Likely WR Chris Godwin WR Alec Pierce WR Wan'Dale Robinson,,CeeDee Lamb,WR,23.08%,19
+9,4410199294,abc010,0,114.84,DST Seahawks  FLEX Breece Hall QB Patrick Mahomes RB Jahmyr Gibbs RB Jordan Mason TE Colby Parkinson WR Cooper Kupp WR Rashee Rice WR Allen Lazard,,Amon-Ra St. Brown,WR,23.08%,25.9
+10,4412717640,sokirkab,0,111.64,DST Patriots  FLEX Jordan Mason QB Patrick Mahomes RB Breece Hall RB Kyren Williams TE Travis Kelce WR Xavier Worthy WR Rashid Shaheed WR Rashod Bateman,,Malik Nabers,WR,23.08%,31.7
+11,4413431821,802the805,0,111.04,DST Giants  FLEX Kyren Williams QB Patrick Mahomes RB Jerome Ford RB Jordan Mason TE Brock Bowers WR Cooper Kupp WR Rashee Rice WR Jalen McMillan,,Allen Lazard,WR,23.08%,3.1
+12,4409198663,dalla2746,0,108.48,DST Chargers  FLEX Amon-Ra St. Brown QB Justin Fields RB Isiah Pacheco RB J.K. Dobbins TE Zach Ertz WR Cooper Kupp WR Xavier Legette WR Greg Dortch,,Isaiah Likely,TE,23.08%,4.6
+13,4408593773,molly_camp,0,65.72,DST Colts  FLEX Devin Singletary QB Joe Burrow RB Rachaad White RB Najee Harris TE Evan Engram WR Ja'Marr Chase WR Amari Cooper WR Jermaine Burton,,Brock Bowers,TE,23.08%,18.8
+,,,,,,,Colby Parkinson,TE,23.08%,2.2
+,,,,,,,Anthony Richardson,QB,15.38%,12.86
+,,,,,,,Baker Mayfield,QB,15.38%,19.8
+,,,,,,,Kyren Williams,RB,15.38%,15.2
+,,,,,,,Tony Pollard,RB,15.38%,15.2
+,,,,,,,Jerome Ford,RB,15.38%,7.4
+,,,,,,,Zach Charbonnet,RB,15.38%,17.9
+,,,,,,,Chris Godwin,WR,15.38%,27.7
+,,,,,,,Chargers,DST,15.38%,11
+,,,,,,,Colts,DST,15.38%,3
+,,,,,,,Patriots,DST,15.38%,3
+,,,,,,,Jared Goff,QB,7.69%,13.78
+,,,,,,,Joe Burrow,QB,7.69%,18.22
+,,,,,,,Jayden Daniels,QB,7.69%,13.44
+,,,,,,,Matthew Stafford,QB,7.69%,7.64
+,,,,,,,Justin Fields,QB,7.69%,11.38
+,,,,,,,Jonathan Taylor,FLEX,7.69%,18.5
+,,,,,,,Alvin Kamara,FLEX,7.69%,47
+,,,,,,,Isiah Pacheco,RB,7.69%,16.1
+,,,,,,,Jahmyr Gibbs,RB,7.69%,17.6
+,,,,,,,Josh Jacobs,RB,7.69%,17.1
+,,,,,,,James Conner,RB,7.69%,22.4
+,,,,,,,Rachaad White,RB,7.69%,3.3
+,,,,,,,Devin Singletary,FLEX,7.69%,15.5
+,,,,,,,Zack Moss,RB,7.69%,5.7
+,,,,,,,Najee Harris,RB,7.69%,8.4
+,,,,,,,Justin Jefferson,WR,7.69%,26.3
+,,,,,,,Ja'Marr Chase,WR,7.69%,7.5
+,,,,,,,Mike Evans,WR,7.69%,7.2
+,,,,,,,Deebo Samuel Sr.,WR,7.69%,21
+,,,,,,,Zay Flowers,WR,7.69%,22.1
+,,,,,,,Amari Cooper,WR,7.69%,4.1
+,,,,,,,Xavier Worthy,WR,7.69%,4.2
+,,,,,,,George Pickens,WR,7.69%,4.9
+,,,,,,,Jameson Williams,WR,7.69%,14.4
+,,,,,,,Brian Thomas Jr.,FLEX,7.69%,11.4
+,,,,,,,Xavier Legette,WR,7.69%,0
+,,,,,,,Rashid Shaheed,WR,7.69%,20.9
+,,,,,,,Greg Dortch,WR,7.69%,3.1
+,,,,,,,Alec Pierce,WR,7.69%,16.6
+,,,,,,,Wan'Dale Robinson,WR,7.69%,9.8
+,,,,,,,Rashod Bateman,WR,7.69%,7
+,,,,,,,Jalen McMillan,WR,7.69%,3.1
+,,,,,,,Jermaine Burton,WR,7.69%,5.7
+,,,,,,,Travis Kelce,TE,7.69%,1.6
+,,,,,,,Evan Engram,TE,7.69%,0
+,,,,,,,Zach Ertz,TE,7.69%,10.2
+,,,,,,,Jordan Akins,TE,7.69%,2
+,,,,,,,Foster Moreau,FLEX,7.69%,0
+,,,,,,,Drew Sample,TE,7.69%,5.8
+,,,,,,,Ravens,DST,7.69%,7
+,,,,,,,Seahawks,DST,7.69%,6
+,,,,,,,Giants,DST,7.69%,5

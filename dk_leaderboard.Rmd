@@ -4,8 +4,8 @@ output:
     theme: cosmo 
 params:
   league: 'Meatpoles'
-  season: 2023
-  week: 18
+  season: 2024
+  week: 2
 ---
 
 ```{r, include=FALSE}
@@ -45,7 +45,7 @@ weekly_file_df <- function(week_result){
                  team = EntryName, 
                  points = Points) %>% 
           filter(!is.na(team)) %>% 
-          mutate(week = as.numeric(str_extract(week_result,"(?<=_| )[^_ ]+(?=\\_2023.csv)"))) 
+          mutate(week = as.numeric(str_extract(week_result,"(?<=_| )[^_ ]+(?=\\_2024.csv)"))) 
   return(df)
 }
 ```
@@ -57,48 +57,17 @@ weekly_result_df <- map_dfr(weekly_result_files, weekly_file_df)
 
 ```{r}
 # Dataframe of entry costs and prize pool
-payout_df <- tibble (
-  week = c(1:params$week),
-  entry = rep(20, params$week),
-  first = c(
-    180,
-    126,
-    138.60,
-    138.6,
-    138.6,
-    126,
-    126,
-    100.80,
-    113.40,
-    126,
-    126,
-    126,
-    113.40,
-    113.40,
-    113.40,
-    113.40,
-    88.20,
-    113.40),
-  second = c(
-    -20,
-    54,
-    59.40,
-    59.4,
-    59.4,
-    54,
-    54,
-    43.20,
-    48.60, 
-    54,
-    54,
-    54,
-    48.60,
-    48.60,
-    48.60,
-    48.60,
-    37.80,
-    48.60) # -20 in week one to adjust for winner take all
-)
+payout_df <- weekly_result_df %>% 
+  group_by(week) %>% 
+  summarize(
+    entry = 20,
+    contest_size = n(),
+    purse = (n()*entry)-(n()*entry*0.1)
+  ) %>% 
+  mutate(
+    first = purse*0.7,
+    second = purse*0.3
+  )
 ```
 
 ```{r}
@@ -125,7 +94,7 @@ week_payout_2 <- payout_df$second[payout_df$week == params$week]
 ```
 
 
-> Welcome to the Week `r params$week` leaderboard, the conclusion of the `r params$year` season of the `r params$league` DraftKings league. This week's winner was <span style="color:#9ac434">`r week_winner`</span>, scoring `r week_totals$points[week_totals$rank == 1]` points and taking home $`r week_payout_1`. <span style="color:#f46c22">`r week_runner_up`</span>, took home second place with `r week_totals$points[week_totals$rank == 2]` points, good for $`r week_payout_2`. 
+> Welcome to the Week `r params$week` leaderboard. This week's winner was <span style="color:#9ac434">`r week_winner`</span>, scoring `r week_totals$points[week_totals$rank == 1]` points and taking home $`r week_payout_1`. <span style="color:#f46c22">`r week_runner_up`</span>, took home second place with `r week_totals$points[week_totals$rank == 2]` points, good for $`r week_payout_2`. 
 
 ::: {.panel-tabset}
 

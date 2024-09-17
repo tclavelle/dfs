@@ -1,0 +1,66 @@
+Rank,EntryId,EntryName,TimeRemaining,Points,Lineup,,Player,Roster Position,%Drafted,FPTS
+1,4401614356,Iceman_1733,0,138.04,DST Patriots  FLEX Johnny Mundt QB Justin Fields RB Bijan Robinson RB Alvin Kamara TE Pat Freiermuth WR Tyreek Hill WR Mike Evans WR Brian Thomas Jr.,,Rachaad White,RB,41.67%,16.6
+2,4401459363,QTURNER17,0,130.76,DST Panthers  FLEX Jaxon Smith-Njigba QB Jayden Daniels RB De'Von Achane RB Aaron Jones TE Brock Bowers WR Mike Evans WR Jaylen Waddle WR Terry McLaurin,,Tyreek Hill,WR,33.33%,29
+3,4401974603,sarahskerr,0,125.46,DST Panthers  FLEX Raheem Mostert QB Baker Mayfield RB James Cook RB Joe Mixon TE Chig Okonkwo WR Justin Jefferson WR Chris Godwin WR Rome Odunze,,Malik Nabers,WR,33.33%,11.6
+4,4397961417,frankmkerr23,0,124.88,DST Broncos  FLEX Adonai Mitchell QB Anthony Richardson RB Alvin Kamara RB Rachaad White TE Kyle Pitts WR Justin Jefferson WR Malik Nabers WR Tank Dell,,Terry McLaurin,WR,33.33%,3.7
+5,4399872800,802the805,0,123.06,DST Bills  FLEX Terry McLaurin QB Jayden Daniels RB Rachaad White RB Kenneth Walker III TE Evan Engram WR Tyreek Hill WR Malik Nabers WR Andrei Iosivas,,Andrei Iosivas,WR,33.33%,5.6
+6,4399415727,sokirkab,0,118.46,DST Saints  FLEX Taysom Hill QB C.J. Stroud RB Rachaad White RB Kenneth Walker III TE Kyle Pitts WR Michael Pittman Jr. WR Stefon Diggs WR Rome Odunze,,Kyle Pitts,TE,33.33%,11.6
+7,4398623903,abc010,0,114.88,DST Chargers  FLEX Terry McLaurin QB Josh Allen RB Bijan Robinson RB Rachaad White TE Kyle Pitts WR Drake London WR Malik Nabers WR Andrei Iosivas,,Jayden Daniels,QB,25.00%,28.16
+8,4400642477,cciaburri,0,110.06,DST Commanders  FLEX Brevin Jordan QB Jayden Daniels RB Bijan Robinson RB Brian Robinson Jr. TE Kyle Pitts WR Tyreek Hill WR Chris Olave WR DK Metcalf,,Justin Fields,QB,25.00%,11.94
+9,4401698691,dalla2746,0,109.28,DST Browns  FLEX DJ Moore QB Kyler Murray RB James Cook RB Jerome Ford TE Trey McBride WR Mike Evans WR Khalil Shakir WR Andrei Iosivas,,Bijan Robinson,RB,25.00%,16.1
+10,4400690897,jcameronmetz,0,104.64,DST Titans  FLEX Jaxon Smith-Njigba QB Justin Fields RB De'Von Achane RB Aaron Jones TE Greg Dulcich WR CeeDee Lamb WR Malik Nabers WR George Pickens,,Alvin Kamara,RB,25.00%,22
+11,4400485103,Matthew.walsh5,0,103.74,DST Vikings  FLEX Tyreek Hill QB Justin Fields RB Zamir White RB Javonte Williams TE Pat Freiermuth WR Justin Jefferson WR Terry McLaurin WR Andrei Iosivas,,Justin Jefferson,WR,25.00%,15.9
+12,4394161675,molly_camp,0,74.68,DST Browns  FLEX Brevin Jordan QB Kyler Murray RB Alvin Kamara RB Rachaad White TE Evan Engram WR Ja'Marr Chase WR Marvin Harrison Jr. WR Darnell Mooney,,Mike Evans,WR,25.00%,23.1
+,,,,,,,Kyler Murray,QB,16.67%,15.18
+,,,,,,,James Cook,RB,16.67%,13.3
+,,,,,,,De'Von Achane,RB,16.67%,23
+,,,,,,,Aaron Jones,RB,16.67%,18.9
+,,,,,,,Kenneth Walker III,RB,16.67%,21.9
+,,,,,,,Jaxon Smith-Njigba,FLEX,16.67%,3.9
+,,,,,,,Rome Odunze,WR,16.67%,2.1
+,,,,,,,Evan Engram,TE,16.67%,1.5
+,,,,,,,Pat Freiermuth,TE,16.67%,6.7
+,,,,,,,Brevin Jordan,FLEX,16.67%,1.3
+,,,,,,,Browns,DST,16.67%,2
+,,,,,,,Panthers,DST,16.67%,-1
+,,,,,,,Josh Allen,QB,8.33%,32.18
+,,,,,,,C.J. Stroud,QB,8.33%,18.66
+,,,,,,,Anthony Richardson,QB,8.33%,27.08
+,,,,,,,Baker Mayfield,QB,8.33%,29.66
+,,,,,,,Joe Mixon,RB,8.33%,29.8
+,,,,,,,Raheem Mostert,FLEX,8.33%,3.9
+,,,,,,,Zamir White,RB,8.33%,5.6
+,,,,,,,Javonte Williams,RB,8.33%,3.3
+,,,,,,,Jerome Ford,RB,8.33%,18.9
+,,,,,,,Brian Robinson Jr.,RB,8.33%,17.9
+,,,,,,,CeeDee Lamb,WR,8.33%,13.6
+,,,,,,,Ja'Marr Chase,WR,8.33%,12.2
+,,,,,,,Marvin Harrison Jr.,WR,8.33%,1.4
+,,,,,,,Michael Pittman Jr.,WR,8.33%,7.1
+,,,,,,,Stefon Diggs,WR,8.33%,21.9
+,,,,,,,Chris Olave,WR,8.33%,3.1
+,,,,,,,DJ Moore,FLEX,8.33%,10
+,,,,,,,Jaylen Waddle,WR,8.33%,19.2
+,,,,,,,DK Metcalf,WR,8.33%,5.9
+,,,,,,,Drake London,WR,8.33%,3.5
+,,,,,,,Chris Godwin,WR,8.33%,22.3
+,,,,,,,George Pickens,WR,8.33%,13.5
+,,,,,,,Tank Dell,WR,8.33%,8.9
+,,,,,,,Khalil Shakir,WR,8.33%,13.2
+,,,,,,,Brian Thomas Jr.,WR,8.33%,14.7
+,,,,,,,Darnell Mooney,WR,8.33%,2.5
+,,,,,,,Adonai Mitchell,FLEX,8.33%,1.2
+,,,,,,,Trey McBride,TE,8.33%,8
+,,,,,,,Brock Bowers,TE,8.33%,11.8
+,,,,,,,Taysom Hill,FLEX,8.33%,4.6
+,,,,,,,Chig Okonkwo,TE,8.33%,9.5
+,,,,,,,Greg Dulcich,TE,8.33%,3.2
+,,,,,,,Johnny Mundt,FLEX,8.33%,3.5
+,,,,,,,Saints,DST,8.33%,14
+,,,,,,,Vikings,DST,8.33%,22
+,,,,,,,Bills,DST,8.33%,5
+,,,,,,,Chargers,DST,8.33%,14
+,,,,,,,Titans,DST,8.33%,5
+,,,,,,,Patriots,DST,8.33%,11
+,,,,,,,Commanders,DST,8.33%,-3
+,,,,,,,Broncos,DST,8.33%,10
